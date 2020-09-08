@@ -23,11 +23,14 @@ Import database from file
 ```
 
 ### Result
-http://127.0.0.1:8000/
+Rest Framework: http://127.0.0.1:8000/
 ![Rest Framework View](./assets/images/rest_framework.png)
 
-http://127.0.0.1:8000/graphql
+GraphQL Django: http://127.0.0.1:8000/graphql
 ![Graph Django View](./assets/images/graphql-django.png)
+
+Postman:
+![Postman](./assets/images/postman.png)
 
 
 ### Related Libraries
