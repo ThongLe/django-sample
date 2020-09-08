@@ -22,6 +22,8 @@ Import database from file
 ./manage.py runserver
 ```
 
+Login with account: tonyle/admin123
+
 ### Result
 Rest Framework: http://127.0.0.1:8000/
 ![Rest Framework View](./assets/images/rest_framework.png)
